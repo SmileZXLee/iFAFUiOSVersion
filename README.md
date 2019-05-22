@@ -10,7 +10,7 @@
 * 下载上方ipa文件
 ***
 ## 如何安装
-* 若您的设备已越狱，直接使用Xcode或pp助手将ipa安装至手机即可
+### 若您的设备已越狱，直接使用Xcode或pp助手将ipa安装至手机即可
 ***
 ### 若您的设备未越狱
 #### 使用[Impactor](http://www.cydiaimpactor.com)进行重签名与安装
