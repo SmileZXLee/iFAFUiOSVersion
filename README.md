@@ -2,18 +2,18 @@
 [![CocoaPods](http://img.shields.io/cocoapods/p/ZXTableView.svg?style=flat)](http://cocoapods.org/?q=ZXTableView)&nbsp;
 [![Support](https://img.shields.io/badge/support-iOS%208.0%2B%20-blue.svg?style=flat)](https://www.apple.com/nl/ios/)&nbsp;
 ## 此安装包为内测版，根据需要安装，我们会尽快在App Store中重新上架
-***
+
 ## 更新内容
 * 我们在新版本中修复了金山学院同学无法登录的问题
-***
+
 ## [iFAFU官网](https://ifafu.cn)
-***
+
 ## 如何下载
 * 下载上方ipa文件
-***
+
 ## 如何安装
 ### 若您的设备已越狱，直接使用Xcode或pp助手将ipa安装至手机即可
-***
+
 ### 若您的设备未越狱
 #### 使用[Impactor](http://www.cydiaimpactor.com)进行重签名与安装
 * 点击上方链接进入官网，下载对应系统版本的安装包
