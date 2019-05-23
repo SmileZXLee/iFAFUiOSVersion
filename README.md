@@ -1,4 +1,6 @@
 # iFAFUiOSVersion
+[![CocoaPods](http://img.shields.io/cocoapods/p/ZXTableView.svg?style=flat)](http://cocoapods.org/?q=ZXTableView)&nbsp;
+[![Support](https://img.shields.io/badge/support-iOS%208.0%2B%20-blue.svg?style=flat)](https://www.apple.com/nl/ios/)&nbsp;
 ## 此安装包为内测版，根据需要安装，我们会尽快在App Store中重新上架
 ***
 ## 更新内容
