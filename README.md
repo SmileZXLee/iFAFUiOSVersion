@@ -1,12 +1,15 @@
 # iFAFUiOSVersion
 [![CocoaPods](http://img.shields.io/cocoapods/p/ZXTableView.svg?style=flat)](http://cocoapods.org/?q=ZXTableView)&nbsp;
 [![Support](https://img.shields.io/badge/support-iOS%208.0%2B%20-blue.svg?style=flat)](https://www.apple.com/nl/ios/)&nbsp;
-## 此安装包为内测版，根据需要安装，我们会尽快在App Store中重新上架
+## 此安装包为内测版，根据需要安装，我们会尽快在App Store中重新上架，很抱歉给您带来不便了。
 
 ## 更新内容
 * 我们在新版本中修复了金山学院同学无法登录的问题
 
 ## [iFAFU官网](https://ifafu.cn)
+
+## 注意
+* 若您不知道如何安装，我们可以提供直接安装的内测版本，请加一下👉[iFAFU反馈群](http://qm.qq.com/cgi-bin/qm/qr?k=fb37UJNkthKrSBHDZWlGqYz0rImupG60&group_code=663114635)并联系我
 
 ## 如何下载
 * 下载上方ipa文件
